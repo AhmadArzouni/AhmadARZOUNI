@@ -1,4 +1,4 @@
-![logo](https://github.com/AhmadArzouni/AhmadArzouni/commit/9536176037ba305559a2529a49a628f42be661f2.png)
+
 # 💫 About Me:
 Hi i'm Ahmad Arzouni<br>A passionate Front-End Web Developer from Lebanon.
 <img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400">
