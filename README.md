@@ -1,4 +1,5 @@
-![alt text](https://github.com/AhmadArzouni/AhmadArzouni/blob/main/Black%20Futuristic%20Welcome%20Discord%20Profile%20Banner.png |width=100)
+<img src="https://github.com/AhmadArzouni/AhmadArzouni/blob/main/Black%20Futuristic%20Welcome%20Discord%20Profile%20Banner.png" width="100" height="100">
+
 # 💫 About Me:
 Hi i'm Ahmad Arzouni<br>A passionate Front-End Web Developer from Lebanon.
 <img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400">
